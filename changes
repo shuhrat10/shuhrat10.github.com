@@ -1,0 +1,7 @@
+Added message that the subscription not found if restore membership failed.
+Fixed crash which occurred when moving from one video to another on Shuder TV
+Fixed bug / Share. This happened when information about the film has not loaded.
+Tracking Live (TV - Free / Premium) and VOD in Youbora. 
+Removed Critisim library from Shudder and DocClub
+Cleanup warning in DocClub and Shudder.
+Set to use https for Youbora tracking.

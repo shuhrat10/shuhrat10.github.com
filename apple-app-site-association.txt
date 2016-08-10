@@ -7,5 +7,10 @@
                 "paths": [ "*" ]
             }
         ]
+    },
+    "webcredentials": {
+        "apps": [
+            "72GP743PB7.com.sundancenow.shudder"
+        ]
     }
 }
